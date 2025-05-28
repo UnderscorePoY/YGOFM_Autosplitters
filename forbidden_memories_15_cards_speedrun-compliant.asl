@@ -168,8 +168,10 @@ start {
 }
 
 reset {
+    bool isRaceRun = timer.CurrentTime.ToString().StartsWith("-");
     return old.menu_transition == 193 && current.menu_transition == 191
-            && current.menu_id_or_something2 == 84;
+            && current.menu_id_or_something2 == 84
+            && !isRaceRun;
 }
 
 split {
