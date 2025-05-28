@@ -1,4 +1,4 @@
-**[Autosplitter YGO Forbidden Memories]**  
+# Autosplitter YGO Forbidden Memories
 Voici la première version complète de l'autosplitter pour le 15 Cards.
 
 Il gère : 
