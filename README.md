@@ -3,7 +3,7 @@ Voici la première version complète de l'autosplitter pour le 15 Cards.
 
 Il gère : 
 - le start/split/restart automatiquement,
-- sur les versions 1.9.25/2.0.0/2.0.2 de ePSXe,
+- sur les versions 1.9.25/2.0.0/2.0.2 de ePSXe; et sur DuckStation,
 - que ce soit en run ou en race (le restart automatique est désactivé pendant les races).
 
 Tous les duellistes sont disponibles (victoire et défaite sur Heishin 1), séparés entre ceux du Any% d'une part, et ceux additionnels du All Duelists d'autre part.
