@@ -20,7 +20,7 @@ Tous les duellistes sont disponibles (victoire et défaite sur Heishin 1), sépa
 - Sélectionnez les splits ou catégories de splits que vous souhaitez autosplitter.
 
 **Utilisation**
-- Il est vivement conseillé d'attendre au moins 0.5 secondes avec le curseur sur `New Game` avant de lancer la run.
+- Il est vivement conseillé d'attendre au moins une seconde avec le curseur sur `New Game` avant de lancer la run.
 
 **Crédits**
 - Une adresse "volée" à un autosplitter de [axexkil](https://github.com/axexkil).
