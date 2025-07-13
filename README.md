@@ -19,7 +19,10 @@ Tous les duellistes sont disponibles (victoire et défaite sur Heishin 1), sépa
 - Vous pouvez activer/désactiver les actions `Start`/`Split`/`Reset` avec les cases correspondantes.
 - Sélectionnez les splits ou catégories de splits que vous souhaitez autosplitter.
 
+**Utilisation**
+- Il est vivement conseillé d'attendre au moins 0.5 secondes avec le curseur sur `New Game` avant de lancer la run.
+
 **Crédits**
 - Une adresse "volée" à un autosplitter de [axexkil](https://github.com/axexkil).
-- Le fix du race setup "volé" à [hwangbro](https://github.com/hwangbro).
+- Le fix du race setup "adapté" de [hwangbro](https://github.com/hwangbro).
 - L'aide de [charlyg31](https://github.com/charlyg31).
